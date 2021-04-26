@@ -14,6 +14,10 @@ namespace galib {
     class Chromosome {
     public:
         std::vector<std::unique_ptr<Gene>> geneList;
+    public:
+        std::unique_ptr<Gene>& operator [](int index) {
+            return geneList[index];
+        }
     };
 
     using Chromosome_ptr = std::unique_ptr<Chromosome>;
