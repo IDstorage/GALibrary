@@ -1,0 +1,5 @@
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/x64-Debug/Code/CMakeFiles/edit_cache.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/x64-Debug/Code/CMakeFiles/main.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/x64-Debug/Code/CMakeFiles/rebuild_cache.dir

@@ -1,5 +1,0 @@
-C:/Users/Minjong/Desktop/Projects/GALib/out/build/x64-Debug(기본값)/CMakeFiles/edit_cache.dir
-C:/Users/Minjong/Desktop/Projects/GALib/out/build/x64-Debug(기본값)/CMakeFiles/rebuild_cache.dir
-C:/Users/Minjong/Desktop/Projects/GALib/out/build/x64-Debug(기본값)/GALib/CMakeFiles/GALib.dir
-C:/Users/Minjong/Desktop/Projects/GALib/out/build/x64-Debug(기본값)/GALib/CMakeFiles/edit_cache.dir
-C:/Users/Minjong/Desktop/Projects/GALib/out/build/x64-Debug(기본값)/GALib/CMakeFiles/rebuild_cache.dir

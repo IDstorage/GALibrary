@@ -1,0 +1,3 @@
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/CMakeFiles/galib.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Minjong/Desktop/Projects/GALibrary/out/build/CMakeFiles/ZERO_CHECK.dir
